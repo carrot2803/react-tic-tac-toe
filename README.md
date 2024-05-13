@@ -7,6 +7,7 @@ You can view and test the web at [Site Link](https://carrot2803.github.io/react-
 
 ## Demo Usage
 ![Gif](https://imgur.com/XZMeGRb.gif)
+
 <br>
 [Higher quality video](https://imgur.com/K9ZuH2q.mp4)
 
